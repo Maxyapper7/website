@@ -1,0 +1,6 @@
+.vscode/
+public/
+*.log
+.env
+*.sh
+.DS_Store
