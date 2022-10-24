@@ -1,4 +1,4 @@
-baseURL: "https://maxyapper7.com/"
+fbaseURL: "https://maxyapper7.com/"
 title: Maxyapper7
 paginate: 5
 theme: PaperMod
@@ -105,7 +105,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Maxyapper7/website/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
