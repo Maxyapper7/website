@@ -37,7 +37,7 @@ You will need:
 
 1. Plug in your USB drive.
 
-2. First you need to download the .exe file from [ventoy's](https://github.com/ventoy/Ventoy/releases) website.
+2. First you need to download the .exe file from the [ventoy](https://github.com/ventoy/Ventoy/releases) website.
 
 3. Extract the .zip file run the executable.
 
@@ -49,7 +49,7 @@ You will need:
 
 1. Plug in your USB drive.
 
-2. First you need to download the archive file from [ventoy's](https://github.com/ventoy/Ventoy/releases) website.
+2. First you need to download the archive file from the [ventoy](https://github.com/ventoy/Ventoy/releases) website.
 
 3. Extract the .tar file and go into the folder.
 
