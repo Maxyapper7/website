@@ -1,5 +1,5 @@
 ---
-title: "Apt Package Manager"
+title: "APT Package Manager"
 
 date: 2022-10-24
 url: /aptpackagemanager/
@@ -90,7 +90,7 @@ sudo apt autoremove
 
 ## Video
 {{< rawhtml >}}    
-    <iframe width="816" height="459" src="https://www.youtube.com/embed/RrRpXs2pkzg" title="7 Things You MUST DO After Installing Fedora 36" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+      
 {{< /rawhtml >}}
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca6ff234-c0c7-4a81-9cfd-2758d82ffb5d/deploy-status)](https://app.netlify.com/sites/magnificent-parfait-916055/deploys)
