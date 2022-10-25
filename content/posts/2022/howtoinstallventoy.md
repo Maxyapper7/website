@@ -1,5 +1,5 @@
 ---
-title: "How to install ventoy"
+title: "How to Install Ventoy"
 
 date: 2022-10-20
 url: /howtoinstallventoy/

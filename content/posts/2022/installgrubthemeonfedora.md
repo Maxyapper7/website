@@ -64,4 +64,6 @@ Yes, Grand Unified Bootloader
 
 - It's not working, help.
 
-There are a few things that arn't working. First this guide could be out of date. The theme your using might not be compatible. Or there is something wrong with your grub config file.
+There are a few things that aren't working. First this guide could be out of date. The theme your using might not be compatible. Or there is something wrong with your grub config file.
+
+## Video Walkthrough
