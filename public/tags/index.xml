@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Maxyapper7</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Maxyapper7</description>
+    <image>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APT</title>
+      <link>/tags/apt/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/apt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debain</title>
+      <link>/tags/debain/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/debain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package Manager</title>
+      <link>/tags/package-manager/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/package-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customization</title>
+      <link>/tags/customization/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/customization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>/tags/fedora/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grub2</title>
+      <link>/tags/grub2/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/grub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventoy</title>
+      <link>/tags/ventoy/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ventoy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
