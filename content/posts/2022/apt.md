@@ -3,7 +3,7 @@ title: "APT Package Manager"
 
 date: 2022-10-24
 url: /aptpackagemanager/
-draft: true
+draft: false
 searchHidden: false
 ShowToc: true
 author: "Max Allred"
