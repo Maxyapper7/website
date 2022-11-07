@@ -3,11 +3,11 @@ title: "APT Package Manager"
 
 date: 2022-10-24
 url: /aptpackagemanager/
-draft: true
+draft: false
 searchHidden: false
 ShowToc: true
 author: "Max Allred"
-description: "This guide tells you what and how to use the apt package manager"
+description: "This guide tells you what and how to use the APT package manager"
 categories: [
     "Linux"
 ]
@@ -26,7 +26,7 @@ cover:
 
 ## What is APT?
 
-Apt is a package manager. Package manager is something that uses a thing called repositroies to dowload and install packages. Apt is mainly used on debain and debain distros. And because of that apt tends to be behind a little bit behind and dosen't have the newest releases. Note that apt is just the program that gets and installes packages NOT the repositry. 
+Apt is a package manager. A package manager is something that uses a thing called repositories to download and install packages. Apt is mainly used on Debian and Debian distros. And because of that apt tends to be a little bit behind and doesn’t have the newest releases. Note that apt is just the program that gets and installs packages NOT the repository. 
 
 ## APT commands
 
@@ -36,15 +36,15 @@ sudo apt install <package>
 
 #This command finds and installs packages
 #This also must be run as sudo
-#Ex: sudo apt install neofetch
+#Ex: Sudo apt install neofetch
 ```
 ### Search
 ```
 apt search <package>
 
-#This command searchs the repositroies that you have activated
+#This command searches the repositories that you have activated
 #This command does not have to be run as sudo
-#Ex: sudo apt search openjdk
+#Ex: Sudo apt search OpenJDK
 ```
 ### Update & Upgrade
 ```
@@ -57,7 +57,7 @@ sudo apt upgrade
 
 #This command updates the packages
 #This also needs to be run as sudo
-#Note: You have to run sudo apt update before sudo apt upgrade
+#Note: You have to run Sudo apt update before Sudo apt upgrade
 ```
 ### Remove & Purge
 ```
@@ -68,7 +68,7 @@ sudo apt remove htop
 
 sudo apt purge htop
 
-#This command complete deletes all files the program created
+#This command completely deletes all files the program created
 #This also must be run as sudo
 ```
 ### List
@@ -87,6 +87,8 @@ sudo apt autoremove
 
 #This will remove any packages that aren't needed anymore
 ```
+### Apt vs Apt-get and what to use
+If you want the quick version on what to use, just use apt. Apt-get can be thought of as the backend of apt. Whereas APT is more used for humans to read. APT uses Apt-get in the background. This is simplified there are reasons why you should youse apt-get but in general use apt.
 
 ## Video
 {{< rawhtml >}}    

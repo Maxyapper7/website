@@ -66,4 +66,7 @@ Yes, Grand Unified Bootloader
 
 There are a few things that aren't working. First this guide could be out of date. The theme your using might not be compatible. Or there is something wrong with your grub config file.
 
+- Can I hide the grub menu?
+
+Yes you can, add `GRUB_TIMEOUT_STYLE=hidden` to your grub file.
 ## Video Walkthrough
