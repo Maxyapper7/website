@@ -87,7 +87,7 @@ sudo apt autoremove
 
 #This will remove any packages that aren't needed anymore
 ```
-### Apt vs Apt-get and what to use
+## Apt vs Apt-get and what to use
 If you want the quick version on what to use, just use apt. Apt-get can be thought of as the backend of apt. Whereas APT is more used for humans to read. APT uses Apt-get in the background. This is simplified there are reasons why you should youse apt-get but in general use apt.
 
 ## Video
