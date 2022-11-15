@@ -3,7 +3,7 @@ title: "How to update Fedora"
 
 date: 2022-11-15
 url: /updatefedora/
-draft: true
+draft: false
 searchHidden: false
 ShowToc: true
 author: "Max Allred"
