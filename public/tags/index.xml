@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Fedora</title>
+      <link>/tags/fedora/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Package Manager</title>
       <link>/tags/package-manager/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/rhel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>/tags/update/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/update/</guid>
       <description></description>
     </item>
     
@@ -61,15 +79,6 @@
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/customization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fedora</title>
-      <link>/tags/fedora/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fedora/</guid>
       <description></description>
     </item>
     

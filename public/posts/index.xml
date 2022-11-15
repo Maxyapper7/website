@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>How to update Fedora</title>
+      <link>/updatefedora/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/updatefedora/</guid>
+      <description>This is how to update fedora</description>
+    </item>
+    
+    <item>
       <title>APT Package Manager</title>
       <link>/aptpackagemanager/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
