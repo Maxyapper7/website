@@ -9,7 +9,34 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNF</title>
+      <link>/tags/dnf/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dnf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package Manager</title>
+      <link>/tags/package-manager/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/package-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RHEL</title>
+      <link>/tags/rhel/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rhel/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>APT</title>
       <link>/tags/apt/</link>
@@ -25,15 +52,6 @@
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/debain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Package Manager</title>
-      <link>/tags/package-manager/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/package-manager/</guid>
       <description></description>
     </item>
     
